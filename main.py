@@ -42,3 +42,4 @@ print(total_value_per_supplier)
 print(products_under_10_inv)
 
 inv_file.save("inventory_with_total_value.xlsx")
+
